@@ -24,9 +24,6 @@ h4:target {
 .mybg , .mybg1{
   width: 100%;
   height: auto;
-  position: relative;
-  padding: 0;
-  margin: 0px;
 }
 
 
@@ -110,10 +107,6 @@ ol.r {
 
 @media (max-width: 991px)
 {
-  .mybg , .mybg1
-  {
-    padding: 40px;
-  }
   .text h2
   {
     font-size: 3em;
@@ -123,7 +116,6 @@ ol.r {
     font-size: 2em;
   }
 }
-
 
 
 
